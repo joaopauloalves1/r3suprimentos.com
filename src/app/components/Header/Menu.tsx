@@ -37,7 +37,7 @@ const Menu = () => {
                                     <NavigationMenuLink asChild>
                                         <a className="flex h-full w-full select-none flex-col justify-end rounded-md bg-gradient-to-b from-muted/50 to-muted p-2 no-underline outline-none focus:shadow-md"
                                             href="/about">
-                                            <img src="/Logo.png" className="w-16 p-1"></img>
+                                            <img src="/Logo-1.png" className="w-16 p-1"></img>
                                             <div className="mb-2 mt-4 text-lg font-medium">                                                
                                                 <Link href="/about" className="hover:underline">Quem somos?</Link>
                                             </div>
