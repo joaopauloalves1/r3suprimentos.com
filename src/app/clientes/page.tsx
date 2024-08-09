@@ -5,7 +5,7 @@ const Clientes = () => {
         <div className=" w-full flex items-center flex-col">
             <div className="w-1/2 mt-28" data-aos="fade-left">
                 <h2 className="text-green-text font-semibold text-3xl text-center pb-2">CASES</h2>
-                <p className="text-black text-sm text-center leading-relaxed">
+                <p className="text-black text-[15px] text-center leading-relaxed">
                     Apresentamos alguns Cases, de forma prática, contados por clientes
                     que confiaram no modelo de gestão da R3 Suprimentos. São experiências e
                     resultados obtidos por clientes que possuem grande complexidade

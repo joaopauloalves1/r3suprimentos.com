@@ -10,7 +10,7 @@ const ProductCard = () => {
                 <h2 className="text-5xl font-bold pb-5 text-blue-text  max-md:text-1xl" data-aos="fade-left">
                     PARCERIA COM <br /> GRANDES MARCAS
                 </h2>
-                <p className="pb-2 text-sm  mt-2  max-md:text-xs leading-relaxed" data-aos="fade-left" data-aos-delay="300">
+                <p className="pb-2 text-[15px]  mt-2  max-md:text-xs leading-relaxed" data-aos="fade-left" data-aos-delay="300">
                     Reconhecida por sua solidez e compromisso, a R3 conquistou a confiança do mercado
                     corporativo, fidelizando clientes em diversos segmentos. Trabalhamos em parceria com
                     marcas renomadas nacionais e internacionais, como Chamex, Unilever, Ecomaster, Tork,
@@ -51,7 +51,7 @@ const ProductCard = () => {
                 />
 
                 <Products
-                    url="/MARCAS/TORK1.png"
+                    url="/MARCAS/tork1.png"
                 />
                 <Products
                     url="/MARCAS/zupp1.png"

@@ -13,7 +13,7 @@ const SectionFour = () => {
                     <h2 className="pb-10 font-bold text-5xl text-center text-green-text max-md:text-3xl" data-aos="fade-right">NOSSO COMPROMISSO</h2>
                     <div className="flex gap-10 max-md:flex-col">
                         <img src="/selo.png" alt="" className="w-[250px] max-md:" data-aos="fade-right"/>
-                        <p className="pb-4 text-sm leading-relaxed text-center mt-4 max-w-screen-md max-md:text-xs" data-aos="fade-left" data-aos-delay="300">
+                        <p className="pb-4 text-[15px] leading-relaxed text-center mt-4 max-w-screen-md max-md:text-xs" data-aos="fade-left" data-aos-delay="300">
                             Na R3, nosso compromisso é com a
                             qualidade, a inovação e a satisfação dos
                             nossos clientes, oferecendo soluções

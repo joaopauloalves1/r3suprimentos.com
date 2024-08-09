@@ -11,7 +11,7 @@ const LinhaProdutos = () => {
                 </div>
                 <h2 className="text-4xl font-semibold p-3 text-green-text mt-28">Linha de Produtos</h2>
                 <h5 className="text-xl mb-4 text-white font-normal max-sm:text-base">1500 itens distribuídos em diversas Categorias</h5>
-                <p className="text-sm w-2/3 text-white text-center max-sm:text-xs">Oferecemos itens de consumo recorrente essenciais para operação, uso de seus colaboradores e o dia a dia da sua empresa. Confira abaixo nossas Categorias de Produtos</p>
+                <p className="text-[15px] w-2/3 text-white text-center max-sm:text-xs">Oferecemos itens de consumo recorrente essenciais para operação, uso de seus colaboradores e o dia a dia da sua empresa. Confira abaixo nossas Categorias de Produtos</p>
             </div>
             <div className="w-full h-[50vh] bg-blue-950 flex items-center justify-center">
                 <div className="grid grid-cols-12 gap-7 w-4/6 m-auto max-xl:grid-cols-6 max-md:grid-cols-4 max-sm:grid-cols-2 max-sm:gap-2">

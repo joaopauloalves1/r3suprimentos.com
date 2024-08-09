@@ -14,7 +14,7 @@ const SectionTree = () => {
                         NOSSO DNA É EVIDENTE:<br />
                         <span className="font-bold text-4xl text-green-text">LOGÍSTICA</span>
                     </h2>
-                    <p className="pb-2 text-sm max-md:text-xs leading-relaxed" data-aos="fade-left" >
+                    <p className="pb-2 text-[15px] max-md:text-xs leading-relaxed" data-aos="fade-left" >
                         
                         Nossa infraestrutura inclui um espaço de armazenamento superior a 2.000 m2, uma loja
                         fisica em Goiânia (matriz) e uma filial em Rio Verde, 
@@ -27,7 +27,7 @@ const SectionTree = () => {
                         Faça o seu contato agora mesmo, um profissional de nosso time comercial vai te atender prontamente.
                     </p> */}
                     <div className="flex items-center justify-center" data-aos="fade-up" data-aos-delay="500">
-                        <Link href="/contato"><Button className=" bg-green-text text-white mt-16">SOLICITAR CONTATO</Button></Link>
+                        <Link href="/contato"><Button className=" bg-blue-text text-white mt-16">SOLICITAR CONTATO</Button></Link>
                         
                     </div>
                 </div>

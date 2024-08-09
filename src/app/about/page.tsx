@@ -30,13 +30,13 @@ const About = () => {
                 </div>
                 <div className="w-1/3 p-11 my-6 xl:w-2/5 max-md:w-full" data-aos="fade-left" data-delay="500">
                     <h2 className="text-3xl mb-6 mt-10">Quem Somos</h2>
-                    <p className="mb-6 text-sm leading-relaxed">
+                    <p className="mb-6 text-[15px] leading-relaxed">
                         Com uma experiência de mais de 45 anos no segmento, a R3 Suprimentos Corporativos se dedica diariamente a proporcionar a melhor experiência em compras de insumos para empresas de todos os setores nas regiões de Goiás e
                         Com CDs e lojas físicas em Goiânia e Rio Verde, atendemos uma ampla gama de segmentos, oferecendo suprimentos de alta qualidade e eficiência econômica.
                         Nossas linhas de: Produtos de Higiene e Limpeza Profissional | Materiais de Escritório | Embalagens | Equipamentos Profissionais | Lava Jato de Alta Pressão
                     </p>
                     <div className="mb-6">
-                        <h4 className="mb-6 text-sm leading-relaxed font-semibold">Segmentos Atendidos:</h4>
+                        <h4 className="mb-6 text-[15px] leading-relaxed font-semibold">Segmentos Atendidos:</h4>
                         <ul>
                             <li className="text-sm mb-2">• Setor de Alimentação: Restaurantes, bares, lanchonetes e food services.</li>
                             <li className="text-sm mb-2">• Hospitalidade: Hotéis, pousadas e resorts.</li>
@@ -47,15 +47,15 @@ const About = () => {
                         </ul>
                     </div>
                     <div>
-                        <h4 className="mb-2 text-sm font-semibold leading-relaxed">Nossa Abordagem e Diferencias</h4>
-                        <p className="mb-6 text-sm leading-relaxed">
+                        <h4 className="mb-2 text-[15px] font-semibold leading-relaxed">Nossa Abordagem e Diferencias</h4>
+                        <p className="mb-6 text-[15px] leading-relaxed">
                             Nossa abordagem é centrada no cliente, visando facilitar a gestão de suprimentos com soluções personalizadas
                             que atendem às necessidades específicas de cada negócio. Temos uma plataforma digital para a gestão de pedidos e investimos continuamente no aprimoramento da tecnologia e nossos processos.
                         </p>
                     </div>
                     <div>
-                        <h4 className="mb-2 text-sm font-semibold leading-relaxed">Parcerias de Sucesso e Confiança</h4>
-                        <p className="mb-6 text-sm leading-relaxed">
+                        <h4 className="mb-2 text-[15px] font-semibold leading-relaxed">Parcerias de Sucesso e Confiança</h4>
+                        <p className="mb-6 text-[15px] leading-relaxed">
                             Ao longo dos anos, fidelizamos inúmeros clientes e conquistamos a confiança de empresas que são referências em seus setores.
                             Nosso compromisso com a excelência nos permite manter parcerias duradouras e satisfatórias, que se traduzem em resultados concretos e duradouros para nossos clientes.
                         </p>

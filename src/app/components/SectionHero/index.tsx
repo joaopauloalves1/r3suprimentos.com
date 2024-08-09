@@ -16,7 +16,7 @@ const SectionHero = () => {
                     {/* <h1 className="font-bold text-5xl text-center text-white" data-aos="fade-up"><span>A R3 Suprimentos</span> <br/> <span className="text-green-text">fornece o essencial</span> para <span className="text-blue-text"> sua empresa fazer o que faz de melhor</span></h1> */}
                     {/* <h1 className="font-bold text-5xl text-center text-white" data-aos="fade-up">A R3 Suprimentos <br/>fornece o essencial para sua empresa fazer o que faz de melhor</h1> */}
                     <h1 className="font-bold text-5xl text-end text-white leading-snug max-sm:text-3xl" data-aos="fade-down">A R3 Suprimentos <br /> fornece o essencial <br />para sua empresa fazer <br /> o que faz de melhor</h1>
-                    <Link href="https://www.r3suprimentos.com.br/faca-sua-cotacao"><Button className=" bg-green-text text-white ml-40" data-aos="fade-up">SOLICITAR COTAÇÃO</Button></Link>
+                    <Link href="https://www.r3suprimentos.com.br/faca-sua-cotacao"><Button className=" bg-blue-text text-white ml-40" data-aos="fade-up">SOLICITAR COTAÇÃO</Button></Link>
                 </div>
             </div>
         </section>

@@ -7,7 +7,7 @@ const Logistc = () => {
                 <div className="max-w-lg">
                     <div>
                         <h2 className="text-4xl text-blue-950 text-justify font-bold mb-3 max-md:text-xl" data-aos="fade-left" data-delay="500">Abrangência</h2>
-                        <p className="text-sm text-justify max-md:text-xs" data-aos="fade-left" data-delay="500" >
+                        <p className="text-[15px] text-justify max-md:text-xs" data-aos="fade-left" data-delay="500" >
                             Na R3 Suprimentos, entregamos nossos produtos em todo o Brasil, com um foco especial em Goiás e no Distrito Federal.
                             Nosso compromisso é garantir que cada cliente receba suas mercadorias com a máxima eficiência e segurança.
                             Utilizamos uma logística bem estruturada e transportadoras selecionadas para manter a alta qualidade no serviço de entrega.
